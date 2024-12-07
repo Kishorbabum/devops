@@ -1,7 +1,7 @@
-package com.example;
+ipackage com.example;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello1:");
+        System.out.println("Hello kishor");
     }
 }
